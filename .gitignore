@@ -1,0 +1,5 @@
+# Project exclude paths
+/out/
+/springMVC-01-servlet/target/
+/springMVC-02-helloMVC/target/
+/springMVC-03-annotation/target/
